@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Early Career Astronomers"
-permalink: early_career_astronomers
+permalink: /early_career_astronomers/
 author_profile: true
 redirect_from:
   - /resume
