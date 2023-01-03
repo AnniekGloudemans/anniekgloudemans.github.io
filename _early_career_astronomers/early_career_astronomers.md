@@ -33,3 +33,9 @@ https://www.astrobetter.com/blog/2021/09/21/setting-expectations-for-research-st
 
 Support groups:
 * Facebook group for Early career astronomers and astrophysicists: [https://www.facebook.com/groups/582367049172861](https://www.facebook.com/groups/582367049172861)
+
+
+Big thanks to the ECA SOC 2021/2022: Floor Broekgaarden, Jakob van den Eijnden, Annelotte Derkink, Neige Frankel, Serena Vinciguerra, Anjali Piette, Valeriya Korol, Anniek Gloudemans
+
+And senior advising board 2021/2022 (in reversed alphabetical order): 
+David Weir, Silvia Toonen, Dorottya Szécsi, Enrico Ramirez-Ruiz, Samaya Nissanke, Ewine van Dishoeck
