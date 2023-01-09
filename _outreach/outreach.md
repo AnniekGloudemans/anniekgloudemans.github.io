@@ -20,7 +20,7 @@ Our pilot project has been very successful and with the support from the ET Outr
 <p float="middle">
   <img src="alien.png" width="200" />
   <img src="alien3.jpg" width="200" />
-  <img src="alien_teaching.jpeg" width="435" /> 
+  <img src="alien_teaching.jpg" width="435" /> 
 </p>
 
 
